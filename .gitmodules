@@ -1,0 +1,3 @@
+[submodule "yes.i.know/DNSExfiltrator"]
+	path = YesIKnowIKonw/DNSExfiltrator
+	url = https://github.com/Arno0x/DNSExfiltrator.git
